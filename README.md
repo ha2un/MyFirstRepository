@@ -5,4 +5,4 @@
 
   -첫번째
   
-<img width="" height="" src="./png/강아지.png"><img>
+<img width="" height="" src="./png/강아지.jpg"><img>
